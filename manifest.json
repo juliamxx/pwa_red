@@ -1,0 +1,20 @@
+{
+    "name": "RED - Recursos Educacionais Digitais"
+    ,"short_name": "RED"
+    ,"start_url": "."
+    ,"background_color": "#fff"
+    ,"theme_color": "#FA2947"
+    , "description": "Um portal com recursos educacionais digitais."
+    ,"display": "standalone"
+    ,"icons":
+    [
+        {
+            "src":"./images/android-chrome-192x192.png"
+            ,"sizes":"192x192","type":"image/png"
+        }
+        ,{
+            "src":"./images/android-chrome-512x512.png"
+            ,"sizes":"512x512","type":"image/png"
+        }
+    ]
+}
